@@ -1,4 +1,4 @@
-package com.erdemtsynduev.dtmfsos
+package com.erdemtsynduev.dtmfsos.screen
 
 import android.Manifest
 import android.content.Intent
